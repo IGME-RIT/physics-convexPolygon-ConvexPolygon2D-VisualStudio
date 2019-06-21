@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level7\physics-convexpolygon-convexpolygon2d-mastervs2019\convexpolygonconvexpolygon2d\main.cpp(796): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\profiles\njp2424\desktop\physics\level7\physics-convexpolygon-convexpolygon2d-mastervs2019\convexpolygonconvexpolygon2d\main.cpp(829): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\profiles\njp2424\desktop\physics\level7\physics-convexpolygon-convexpolygon2d-mastervs2019\convexpolygonconvexpolygon2d\main.cpp(898): warning C4018: '<': signed/unsigned mismatch
+d:\profiles\njp2424\desktop\physics\level7\physics-convexpolygon-convexpolygon2d-mastervs2019\convexpolygonconvexpolygon2d\main.cpp(901): warning C4018: '<': signed/unsigned mismatch
+d:\profiles\njp2424\desktop\physics\level7\physics-convexpolygon-convexpolygon2d-mastervs2019\convexpolygonconvexpolygon2d\main.cpp(909): warning C4018: '<': signed/unsigned mismatch
+d:\profiles\njp2424\desktop\physics\level7\physics-convexpolygon-convexpolygon2d-mastervs2019\convexpolygonconvexpolygon2d\main.cpp(912): warning C4018: '<': signed/unsigned mismatch
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ConvexPolygonConvexPolygon2D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level7\physics-convexPolygon-ConvexPolygon2D-masterVS2019\ConvexPolygonConvexPolygon2D\Debug\ConvexPolygonConvexPolygon2D.exe
